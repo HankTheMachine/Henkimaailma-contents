@@ -2,52 +2,40 @@
     "sivut": [
         {
             "title": "Etusivu",
-            "url": "/"
+            "url": ".",
+            "en-title": "Home",
+            "en-url-title": "/en/"
         },
-            {
-                "title": "Home",
-                "url-title": "/en/"
-            },
         {
             "title": "CV",
-            "url": "/cv"
+            "url": "/cv",
+            "en-title": "CV",
+            "en-url-title": "/en/cv"
         },
-            {
-                "title": "CV",
-                "url-title": "/en/cv"
-            },
         {
             "title": "Blog",
-            "url-title": "/blog"
+            "url-title": "/blog",
+            "en-title": "Blog",
+            "en-url-title": "/en/blog"
         },
-            {
-                "title": "Blog",
-                "url-title": "/en/blog"
-            },
         {
             "title": "Projektit",
-            "url-title": "/projektit"
+            "url-title": "/projektit",
+            "en-title": "Projects",
+            "en-url-title": "/en/projects"
         },
-            {
-                "title": "Projects",
-                "url-title": "/en/projects"
-            },
         {
             "title": "Arviot",
-            "url-title": "/arviot"
+            "url-title": "/arviot",
+            "en-title": "Reviews",
+            "en-url-title": "/en/reviews"
         },
-            {
-                "title": "Reviews",
-                "url-title": "/en/reviews"
-            },
         {
             "title": "Meta",
-            "url-title": "/meta"
-        },
-            {
-                "title": "Meta",
-                "url-title": "/en/meta"
-            }
+            "url-title": "/meta",
+            "en-title": "Meta",
+            "en-url-title": "/en/meta"
+        }
     ]
 }
   
