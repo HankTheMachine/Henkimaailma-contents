@@ -1,0 +1,30 @@
+{
+    "arviot" : [
+        {
+            "id": 1,
+            "type": "Album",
+            "title": "Napalm Death - From Enslavement To Obliteration",
+            "url": "napalm-death-from-enslavement-to-obliteration",
+            "date": "2023-01-01T16:00:00Z",
+            "genre": ["Grindcore"],
+                "data": {
+                    "artist": "Napalm Death",
+                    "albumtitle": "From Enslavement To Obliteration",
+                    "year": "1988"
+                }
+        },
+        {
+            "id": 2,
+            "type": "Album",
+            "title": "Dxxxa D & Hzzzt - Low Key Cue New Tan Bloss It",
+            "url": "dxxxa-d-hzzzt-low-key-cue-new-tan-bloss-it",
+            "date": "2023-01-01T16:00:00Z",
+            "genre": ["Hip hop", "Spoken word"],
+                "data": {
+                    "artist": ["Dxxxa D", "Hzzzt"],
+                    "albumtitle": "Low Key Cue New Tan Bloss It",
+                    "year": "1988"
+                }
+        }
+    ]
+}
