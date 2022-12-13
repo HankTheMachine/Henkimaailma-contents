@@ -2,39 +2,31 @@
     "sivut": [
         {
             "title": "Etusivu",
-            "url": ".",
-            "en-title": "Home",
-            "en-url-title": "/en/"
+            "url": "."
         },
         {
             "title": "CV",
-            "url": "/cv",
-            "en-title": "CV",
-            "en-url-title": "/en/cv"
+            "url": "/cv"
         },
         {
             "title": "Blog",
-            "url-title": "/blog",
-            "en-title": "Blog",
-            "en-url-title": "/en/blog"
+            "url-title": "/blog"
         },
         {
             "title": "Projektit",
-            "url-title": "/projektit",
-            "en-title": "Projects",
-            "en-url-title": "/en/projects"
+            "url-title": "/projektit"
         },
         {
             "title": "Arviot",
-            "url-title": "/arviot",
-            "en-title": "Reviews",
-            "en-url-title": "/en/reviews"
+            "url-title": "/arviot"
         },
         {
             "title": "Meta",
-            "url-title": "/meta",
-            "en-title": "Meta",
-            "en-url-title": "/en/meta"
+            "url-title": "/meta"
+        },
+        {
+            "title": "404",
+            "url-title": "/404"
         }
     ]
 }
